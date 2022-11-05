@@ -1,14 +1,14 @@
 ﻿{
     "Name": "Reset Enmity Command",
     "Author": "akira0245, k-kz",
-    "Punchline": "Add a reset striking dummy enmity command.",
-    "Description": "Add a reset striking dummy enmity command.",
+    "Punchline": "Adds two commands to reset striking dummy enmity. Updated for API7 by k-kz.",
+    "Description": "Adds two commands to reset striking dummy enmity. Updated for API7 by k-kz.",
     "RepoUrl": "https://github.com/k-kz/ResetEnmityCommand",
     "Tags": [
-        "akira",
+        "dummy",
         "striking",
-        "battle",
-        "train"
+        "reset",
+        "enmity"
     ],
     "DalamudApiLevel": 7,
     "IconUrl": "https://i.loli.net/2021/09/25/OA6vDxaSTmfWyU3.png"
